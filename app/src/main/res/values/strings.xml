@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AmazonAppUI</string>
+    <string name="search_amazon">Search Amazon</string>
+    <string name="deliver_to_uzbekistan">Deliver to Uzbekistan</string>
+    <string name="sign_in_for_the_best_experience">Sign in for the best experience</string>
+    <string name="sign_in_securely">Sign in securely</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="women_s_fashion_sneakers">Women\'s fashion sneakers</string>
+    <string name="see_more">See more</string>
+    <string name="popular_gifts_in_camera">Popular Gifts in Camera</string>
+    <string name="shop_now">Shop now</string>
+    <string name="oculus">Oculus</string>
+</resources>
